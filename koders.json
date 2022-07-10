@@ -1,0 +1,31 @@
+{
+  "mentores": [],
+  "koders": [
+    {
+      "name": "Ale",
+      "gen": "19Js",
+      "modulo": "react",
+      "hobbies": ["tenis", "cine", "peliculas", "programar"]
+    },
+    {
+      "name": "Bere",
+      "gen": "19Js"
+    },
+    {
+      "name": "Kike",
+      "gen": "19Js"
+    },
+    {
+      "name": "Lorena",
+      "gen": "19Js"
+    },
+    {
+      "name": "Abraham",
+      "gen": "19Js"
+    },
+    {
+      "name": "Israel",
+      "gen": "19Js"
+    }
+  ]
+}
